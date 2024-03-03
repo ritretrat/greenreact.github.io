@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.47356126.css",
-    "main.js": "/static/js/main.a890495e.js",
+    "main.js": "/static/js/main.652f3da1.js",
     "static/media/green2.png": "/static/media/green2.d9eb1bdfb7c11cf94c2d.png",
     "static/media/전수연.png": "/static/media/전수연.5dd15d48846ec5be102d.png",
     "static/media/박상일.jpg": "/static/media/박상일.ddfe1c3b1bd4883fd2fe.jpg",
@@ -20,10 +20,10 @@
     "static/media/bg_wave.svg": "/static/media/bg_wave.bc23c0547d5697ed6571afb014f5c87f.svg",
     "index.html": "/index.html",
     "main.47356126.css.map": "/static/css/main.47356126.css.map",
-    "main.a890495e.js.map": "/static/js/main.a890495e.js.map"
+    "main.652f3da1.js.map": "/static/js/main.652f3da1.js.map"
   },
   "entrypoints": [
     "static/css/main.47356126.css",
-    "static/js/main.a890495e.js"
+    "static/js/main.652f3da1.js"
   ]
 }
